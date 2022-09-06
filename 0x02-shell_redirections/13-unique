@@ -1,1 +1,1 @@
-#!/nsort | uniq -u
+#!bin/bash/nsort | uniq -u
