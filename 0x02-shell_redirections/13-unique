@@ -1,1 +1,1 @@
-#!/nsort  | uniq -u
+#!/nsort | uniq -u
